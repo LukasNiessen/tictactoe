@@ -1,0 +1,4 @@
+- Integration tests for GameArena
+- Testing is only for 3x3 grid right now, it doesnt take the GameConfig into account
+- Fix linting issues
+- Add more doc comments so docs can be easily generated
